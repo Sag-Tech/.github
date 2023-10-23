@@ -2,7 +2,7 @@
 
 Welcome to the official GitHub repository of **SagTech**!
 
-[![BlackHole_dark](https://github.com/Sag-Tech/.github/assets/43541617/458c30f9-f25b-4574-909e-1d8a1b13d34d)]
+![BlackHole_dark](https://github.com/Sag-Tech/.github/assets/43541617/458c30f9-f25b-4574-909e-1d8a1b13d34d)
 
 At SagTech, we are passionate about innovation and delivering our clients the best products and services. This GitHub workspace embodies our commitment to transparency, collaboration, and continuous improvement.
 
