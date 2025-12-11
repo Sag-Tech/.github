@@ -7,7 +7,7 @@ This GitHub organization contains selected public components, design systems, an
 
 ## Public Repositories
 
-### **SagTech UI**
+### **SagTech UI(currently not-mantained)**
 A public design system used internally across multiple SagTech products.  
 Includes reusable UI components, design tokens, and shared patterns.
 
