@@ -50,7 +50,7 @@ If you plan to contribute regularly, contact us for access to internal documenta
 For business inquiries and collaborations:
 
 - Website: **https://sagtech.io**  
-- Email: **infot@sagtech.io**  
+- Email: **info@sagtech.io**  
 - LinkedIn: **[SagTech](https://www.linkedin.com/company/sagtech-company)**
 
 ---
